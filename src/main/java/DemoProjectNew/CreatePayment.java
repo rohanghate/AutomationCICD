@@ -1,4 +1,4 @@
-package DemoProject.DemoProjectNew;
+package DemoProjectNew;
 
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;
